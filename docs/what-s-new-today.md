@@ -31,4 +31,4 @@ Qui vorrei provare ascrive un paio di cosucce come se volessi inserire del codic
 
 Eccoci qui sotto il codice, bella li!
 
-> ci ho messo un pòa capire come uscire dal blocco codice ma ce l'ho fatta, è sufficiente fare \``hift + enter``
+> ci ho messo un pò a capire come uscire dal blocco codice ma ce l'ho fatta, è sufficiente fare ``shift + enter``

@@ -36,3 +36,7 @@ Eccoci qui sotto il codice, bella li!
 > ***
 
 Sono riuscito a uscire anche dal "quote"! Che oro ...
+
+Qui proviamo di nuovo a scrive un pò di testo dentro il blocchettino grigio \```eccoci ode``
+
+sdsds sds ds

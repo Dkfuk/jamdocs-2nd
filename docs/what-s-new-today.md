@@ -11,3 +11,20 @@ Since there is a bright and a dark theme in Jamdocs, you will need two logotypes
 ## Ma certamente che ci siamo!
 
 Quindi queto è il secondo paragrafo di una pagina, dai che piano piano capisco come funziona questo diavolo di Template.
+
+## Un ultima riga prima di uscire
+
+Qui vorrei provare ascrive un paio di cosucce come se volessi inserire del codice, ora ci provo eh:
+
+    <duet-alert dismissible>
+      A dismissible alert — check it out!
+    </duet-alert>
+    <duet-alert variation="success" dismissible>
+      A dismissible alert — check it out!
+    </duet-alert>
+    <duet-alert variation="danger" dismissible>
+      A dismissible alert — check it out!
+    </duet-alert>
+    <duet-alert variation="warning" dismissible>
+      A dismissible alert — check it out!
+    </duet-alert>

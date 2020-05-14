@@ -28,3 +28,7 @@ Qui vorrei provare ascrive un paio di cosucce come se volessi inserire del codic
     <duet-alert variation="warning" dismissible>
       A dismissible alert — check it out!
     </duet-alert>
+
+Eccoci qui sotto il codice, bella li!
+
+> ci ho messo un pòa capire come uscire dal blocco codice ma ce l'ho fatta, è sufficiente fare \``hift + enter``

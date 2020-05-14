@@ -43,4 +43,4 @@ Qui proviamo di nuovo a scrive un pò di testo dentro il blocchettino grigio cer
 
 > un altro block quote
 
-Eccoci qui, ce l'ho fatta!
+Eccoci qui, ce l'ho fatta! In pratica con due enter di seguito veloci si riesce ad uscire anche dal blocco quote.

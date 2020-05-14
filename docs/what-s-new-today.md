@@ -39,4 +39,8 @@ Sono riuscito a uscire anche dal "quote"! Che oro ...
 
 Qui proviamo di nuovo a scrive un pò di testo dentro il blocchettino grigio cercando di capire questo apostrofo qui fuori se ci fa oppure ci è! Boh, adesso vediamo:  \```eccoci ode``
 
-sdsds sds ds
+***
+
+> un altro block quote
+
+Eccoci qui, ce l'ho fatta!

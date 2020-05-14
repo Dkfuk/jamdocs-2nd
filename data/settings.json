@@ -10,6 +10,15 @@
       ]
     },
     {
+      "section": "About this template",
+      "topics": [
+        {
+          "title": "Getting started",
+          "slug": "getting-started"
+        }
+      ]
+    },
+    {
       "section": "Setup",
       "topics": [
         {
@@ -19,15 +28,6 @@
         {
           "title": "Forestry CMS",
           "slug": "forestry-cms"
-        }
-      ]
-    },
-    {
-      "section": "How to",
-      "topics": [
-        {
-          "title": "Getting started",
-          "slug": "getting-started"
         }
       ]
     }

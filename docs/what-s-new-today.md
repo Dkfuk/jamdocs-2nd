@@ -1,7 +1,7 @@
 ---
 title: Nothing's new today
 date: 2020-05-12
-slug: whats-new
+slug: Hopmepage
 
 ---
 ## Ma siamo davvero qui?

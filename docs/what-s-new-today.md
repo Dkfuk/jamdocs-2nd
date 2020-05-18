@@ -1,7 +1,7 @@
 ---
 title: Templates
 date: 2020-05-12
-slug: Hopmepage
+slug: Templates
 
 ---
 ## Ma siamo davvero qui?

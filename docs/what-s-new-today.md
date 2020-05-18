@@ -1,5 +1,5 @@
 ---
-title: Nothing's new today
+title: Templates
 date: 2020-05-12
 slug: Hopmepage
 

@@ -1,11 +1,11 @@
 {
   "sidebar": [
     {
-      "section": "You still see me?",
+      "section": "Templates",
       "topics": [
         {
-          "title": "Oh yes, you are up there!",
-          "slug": "whats-new"
+          "title": "Homepage",
+          "slug": "Hopmepage"
         }
       ]
     },

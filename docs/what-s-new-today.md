@@ -1,18 +1,18 @@
 ---
-title: Templates
+title: Templates Desktop
 date: 2020-05-12
 slug: Templates
 
 ---
-## Ma siamo davvero qui?
+## Homepage
 
 Since there is a bright and a dark theme in Jamdocs, you will need two logotypes. Just replace the two svg files in `src/assets/img` where the dark on is named `logo-dark.svg` and the bright one is named `logo-bright.svg`. If you can´t provide SVG logos, you can just change the file format to for example PNG in line 5 and 10 `src/components/Logo.vue`.
 
-## Ma certamente che ci siamo!
+## Foglia Articolo
 
 Quindi queto è il secondo paragrafo di una pagina, dai che piano piano capisco come funziona questo diavolo di Template.
 
-## Un ultima riga prima di uscire
+## Foglia Video
 
 Qui vorrei provare ascrive un paio di cosucce come se volessi inserire del codice, ora ci provo eh:
 
@@ -45,6 +45,6 @@ Qui proviamo di nuovo a scrive un pò di testo dentro il blocchettino grigio cer
 
 Eccoci qui, ce l'ho fatta! In pratica con due enter di seguito veloci si riesce ad uscire anche dal blocco quote.
 
-### Proviamo con un h3, vediamo se me lo elenca come sottosezione
+## Foglia Fotogallery
 
 Ce la facciamo piano-piano

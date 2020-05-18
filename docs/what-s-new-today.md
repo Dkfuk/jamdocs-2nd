@@ -31,16 +31,18 @@ Qui vorrei provare ascrive un paio di cosucce come se volessi inserire del codic
 
 Eccoci qui sotto il codice, bella li!
 
-> ci ho messo un pò a capire come uscire dal blocco codice ma ce l'ho fatta, è sufficiente fare ``shift + entr``
+> ci ho messo un pò a capire come uscire dal blocco codice ma ce l'ho fatta, è sufficiente fare `shift + entr`
 >
 > ***
 
 Sono riuscito a uscire anche dal "quote"! Che oro ...
 
-Qui proviamo di nuovo a scrive un pò di testo dentro il blocchettino grigio cercando di capire questo apostrofo qui fuori se ci fa oppure ci è! Boh, adesso vediamo:  \```eccoci ode``
+Qui proviamo di nuovo a scrive un pò di testo dentro il blocchettino grigio cercando di capire questo apostrofo qui fuori se ci fa oppure ci è! Boh, adesso vediamo:  \``eccoci ode`
 
 ***
 
 > un altro block quote
 
 Eccoci qui, ce l'ho fatta! In pratica con due enter di seguito veloci si riesce ad uscire anche dal blocco quote.
+
+### Proviamo con un h3, vediamo se me lo elenca come sottosezione

@@ -1,7 +1,7 @@
 ---
 title: Homepage
 date: 2020-05-27
-slug: ''
+slug: TemplateHomepage
 
 ---
 # Homepage
